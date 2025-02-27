@@ -36,6 +36,15 @@ Women Safety Analytics (WSA) is an AI-powered surveillance system that enhances 
 ✅ **Public Trust**: Improves confidence in law enforcement.  
 ✅ **Cost-Effective**: Utilizes existing CCTV infrastructure for efficiency.  
 
+## 📜 Documentation  
+
+📄 **Abstract**: [View Abstract](https://github.com/user-attachments/files/19011760/Aabstract.pdf) 
+
+📽️ **Project Video**: [Watch Here](https://youtu.be/VrooDpoXU8I)   
+
+📂 **Presentation (PPT)**: [WSA PPT](https://github.com/user-attachments/files/19011730/Sih.PPT.pptx)
+
+
 ## 🚀 Future Scope  
 🔹 **Advanced AI Integration** for improved behavior detection.  
 🔹 **Public Awareness Campaigns** to educate about safety measures.  
@@ -50,3 +59,4 @@ Women Safety Analytics (WSA) is an AI-powered surveillance system that enhances 
 👨‍💻 **Team Maverick Minds** (Smart India Hackathon 2024)  
 
 ---
+
